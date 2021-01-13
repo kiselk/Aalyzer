@@ -1,0 +1,211 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:System.Windows.Forms.NumericUpDown">
+      <Item value="Maximum" priority="0" />
+      <Item value="Visible" priority="1" />
+      <Item value="Value" priority="6" />
+      <Item value="Minimum" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="time_thresh" priority="0" />
+      <Item value="Convert" priority="0" />
+      <Item value="eTimeThresh" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="int" priority="11" />
+      <Item value="start_i" priority="2" />
+      <Item value="i" priority="2" />
+      <Item value="lLines" priority="6" />
+      <Item value="input" priority="3" />
+      <Item value="MousePosition" priority="4" />
+      <Item value="if" priority="8" />
+      <Item value="xdiff" priority="0" />
+      <Item value="nLines" priority="3" />
+      <Item value="public" priority="4" />
+      <Item value="void" priority="1" />
+      <Item value="draw_lines" priority="2" />
+      <Item value="bool" priority="0" />
+      <Item value="true" priority="2" />
+      <Item value="trigger_transparent" priority="0" />
+      <Item value="first_time" priority="0" />
+      <Item value="Point" priority="4" />
+      <Item value="new" priority="1" />
+      <Item value="x" priority="0" />
+      <Item value="PointToClient" priority="1" />
+      <Item value="xyGraphControl1" priority="2" />
+      <Item value="start_lines" priority="0" />
+      <Item value="ShowPart" priority="0" />
+      <Item value="nFileCount" priority="2" />
+      <Item value="page" priority="3" />
+      <Item value="file_loaded" priority="1" />
+      <Item value="FormWindowState" priority="0" />
+      <Item value="Clone" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="Screen" priority="0" />
+      <Item value="Rectangle" priority="0" />
+      <Item value="rect" priority="1" />
+      <Item value="lLinesThresh" priority="3" />
+      <Item value="Text" priority="0" />
+      <Item value="textBox1" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="s" priority="0" />
+      <Item value="counter" priority="0" />
+      <Item value="cAutoLines" priority="1" />
+      <Item value="this" priority="2" />
+      <Item value="false" priority="2" />
+      <Item value="transparent" priority="2" />
+      <Item value="capture_ctrl" priority="3" />
+      <Item value="draw_lines_thresh" priority="0" />
+      <Item value="keyData" priority="1" />
+      <Item value="Keys" priority="1" />
+      <Item value="pLine" priority="0" />
+      <Item value="float" priority="2" />
+      <Item value="yaxis_size_pixtel" priority="0" />
+      <Item value="line_pixels_above_yaxis" priority="0" />
+      <Item value="percent_of_axis" priority="0" />
+      <Item value="nYMax" priority="1" />
+      <Item value="line" priority="0" />
+      <Item value="props" priority="5" />
+      <Item value="time_current" priority="0" />
+      <Item value="line_right" priority="0" />
+      <Item value="lines2" priority="3" />
+      <Item value="number_line_clicked" priority="0" />
+      <Item value="as" priority="0" />
+      <Item value="ArrayList" priority="0" />
+      <Item value="pos_left" priority="2" />
+      <Item value="return" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="inputString" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToDecimal" priority="0" />
+      <Item value="ToInt32" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="value" priority="0" />
+      <Item value="Text" priority="1" />
+      <Item value="Lines" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="4" />
+      <Item value="Left" priority="0" />
+      <Item value="Visible" priority="3" />
+      <Item value="Top" priority="2" />
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ArrayList">
+      <Item value="Count" priority="2" />
+      <Item value="Clear" priority="3" />
+      <Item value="Add" priority="5" />
+      <Item value="Clone" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GraphicsControlTest.XYGraphControl">
+      <Item value="Left" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.KeyPressEventArgs">
+      <Item value="KeyChar" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Keys">
+      <Item value="PageUp" priority="0" />
+      <Item value="PageDown" priority="0" />
+      <Item value="Control" priority="0" />
+      <Item value="LButton" priority="0" />
+      <Item value="Shift" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.FormWindowState">
+      <Item value="Maximized" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Screen">
+      <Item value="AllScreens" priority="0" />
+      <Item value="GetBounds" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GraphicsControlTest.Form1">
+      <Item value="Width" priority="1" />
+      <Item value="Height" priority="0" />
+      <Item value="Left" priority="3" />
+      <Item value="Right" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Rectangle">
+      <Item value="Width" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckBox">
+      <Item value="Checked" priority="0" />
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Panel">
+      <Item value="Top" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Point">
+      <Item value="Y" priority="1" />
+      <Item value="X" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Single">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Form1.cs" caret="58416" fromTop="15" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Translator.cs" caret="2023" fromTop="30" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Form1.cs" caret="4370" fromTop="12" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Form1.cs" caret="5561" fromTop="41" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Form1.cs" caret="35116" fromTop="25" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Form1.cs" caret="57872" fromTop="22" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Form1.cs" caret="42279" fromTop="22" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Form1.cs" caret="34640" fromTop="7" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Form1.cs" caret="41542" fromTop="37" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Form1.cs" caret="40628" fromTop="23" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Form1.cs" caret="41288" fromTop="23" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Form1.cs" caret="36262" fromTop="5" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Form1.cs" caret="38142" fromTop="40" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Form1.cs" caret="38142" fromTop="34" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Form1.cs" caret="37492" fromTop="24" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Form1.cs" caret="37702" fromTop="28" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Form1.cs" caret="42920" fromTop="36" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Form1.cs" caret="42634" fromTop="31" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Form1.cs" caret="58254" fromTop="38" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Translator.cs" caret="158" fromTop="6" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Form1.cs" caret="36588" fromTop="0" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Form1.cs" caret="58501" fromTop="18" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Form1.cs" caret="58923" fromTop="24" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Translator.cs" caret="22269" fromTop="17" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Translator.cs" caret="60846" fromTop="22" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Translator.cs" caret="384" fromTop="13" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Translator.cs" caret="1584" fromTop="29" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Translator.cs" caret="1713" fromTop="32" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Translator.cs" caret="2338" fromTop="45" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Translator.cs" caret="1088" fromTop="10" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Translator.cs" caret="2278" fromTop="34" />
+      <File id="1303DA28-7297-4A38-808B-D4311FD7A4F6/f:Translator.cs" caret="2023" fromTop="30" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GraphicsControlTest">
+</Property><Property Name="Solution File" Value="C:\Users\user\Desktop\GraphicsControlTest.sln">
+</Property><Property Name="User Options File" Value="C:\Users\user\Desktop\GraphicsControlTest.suo">
+</Property><Property Name="Date" Value="Friday, November 20, 2009">
+</Property><Property Name="Time" Value="16:54 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GraphicsControlTest.sln" Description="File successfully backed up as C:\Users\user\Desktop\Backup3\GraphicsControlTest.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GraphicsControlTest.suo" Description="File successfully backed up as C:\Users\user\Desktop\Backup3\GraphicsControlTest.suo">
+</Event><Event ErrorLevel="0" Project="GraphicsControlTest" Source="GraphicsControlTest.csproj" Description="Project file successfully backed up as C:\Users\user\Desktop\Backup3\GraphicsControlTest.csproj">
+</Event><Event ErrorLevel="0" Project="GraphicsControlTest" Source="GraphicsControlTest.csproj.user" Description="Project user file successfully backed up as C:\Users\user\Desktop\Backup3\GraphicsControlTest.csproj.user">
+</Event><Event ErrorLevel="0" Project="GraphicsControlTest" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Users\user\Desktop\Backup3\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GraphicsControlTest" Source="PointFloat.cs" Description="File successfully backed up as C:\Users\user\Desktop\Backup3\PointFloat.cs">
+</Event><Event ErrorLevel="0" Project="GraphicsControlTest" Source="Form1.cs" Description="File successfully backed up as C:\Users\user\Desktop\Backup3\Form1.cs">
+</Event><Event ErrorLevel="0" Project="GraphicsControlTest" Source="PointI.cs" Description="File successfully backed up as C:\Users\user\Desktop\Backup3\PointI.cs">
+</Event><Event ErrorLevel="0" Project="GraphicsControlTest" Source="XYGraphControl.cs" Description="File successfully backed up as C:\Users\user\Desktop\Backup3\XYGraphControl.cs">
+</Event><Event ErrorLevel="0" Project="GraphicsControlTest" Source="App.config" Description="File successfully backed up as C:\Users\user\Desktop\Backup3\App.config">
+</Event><Event ErrorLevel="0" Project="GraphicsControlTest" Source="App.ico" Description="File successfully backed up as C:\Users\user\Desktop\Backup3\App.ico">
+</Event><Event ErrorLevel="0" Project="GraphicsControlTest" Source="Form1.resx" Description="File successfully backed up as C:\Users\user\Desktop\Backup3\Form1.resx">
+</Event><Event ErrorLevel="0" Project="GraphicsControlTest" Source="XYGraphControl.resx" Description="File successfully backed up as C:\Users\user\Desktop\Backup3\XYGraphControl.resx">
+</Event><Event ErrorLevel="0" Project="GraphicsControlTest" Source="GraphicsControlTest.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GraphicsControlTest" Source="GraphicsControlTest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GraphicsControlTest.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GraphicsControlTest.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GraphicsControlTest" Source="GraphicsControlTest.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
